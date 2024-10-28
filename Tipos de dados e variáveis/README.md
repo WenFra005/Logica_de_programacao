@@ -6,25 +6,48 @@ Em programação existem dois conceitos que são básicos em qualquer linguagem,
 
 ## Exemplos de declaraçãp de variáveis em diferentes linguagens
 
-Aqui estão exemplos de declaração de variáveis em cinco linguagens de programação diferentes. Clique na linguagem desejada para expandir e visualizar os exemplos.
+Aqui estão exemplos de declaração de variáveis em cinco linguagens de programação diferentes.
 
-<details>
-    <summary>Python</summary>
-    ~~~python
-    numero = 10     # Número inteiro
-    nome = "Alice"  # String
-    preco = 9.99    # Número decimal (float)
-    ativo = true    # Booleano
-    
-    ~~~
-</details>
-<details>
-    <summary>Java</summary>
-    ~~~java
-    int numero = 10;        // Número inteiro
-    String nome = "Alice";  // String
-    double preco = 9.99;    // Número decimal (double)
-    boolean ativo = true;   // Booleano
-    
-    ~~~
-</details>
+### Python (Tipagem Dinâmica)
+
+```python
+idade = 25          # Inteiro
+altura = 1.75       # Ponto flutuante
+nome = "Maria"      # String
+estudante = true    # Booleano
+```
+### JavaScript (Tipagem Dinâmica)
+
+```javascript
+let idade = 25;      // Inteiro
+let altura = 1.75;   // Ponto flutuante
+let nome = "Maria";  // String
+let estudante = true // Booleano
+
+```
+### Java (Tipagem Estática)
+
+```java
+int idade = 25;         // Inteiro
+double altura = 1.75;   // Ponto flutuante
+String nome = "Maria";  // String
+boolean estudadante;    // Booleano
+```
+
+### C++ (Tipagem Estática)
+
+```cpp
+int idade = 25;             // Inteiro
+float altura = 1.75f;       // Ponto flutuante
+std::string nome = "Maria"  // String
+bool estudante = true;      // Booleano
+```
+### TypeScript (JavaScript com Tipagem Estática)
+
+```typescript
+let idade: number = 25;         // Inteiro
+let altura: number = 1.75;      // Ponto flutuante
+let nome: string = "Maria";     // String
+let estudante: boolean = true;  // Booleano
+
+```
