@@ -11,18 +11,22 @@ Aqui estão exemplos de declaração de variáveis em cinco linguagens de progra
 <details>
     <summary>Python</summary>
     ~~~python
+
     numero = 10     # Número inteiro
     nome = "Alice"  # String
     preco = 9.99    # Número decimal (float)
     ativo = true    # Booleano
+    
     ~~~
 </details>
 <details>
     <summary>Java</summary>
     ~~~java
+
     int numero = 10;        // Número inteiro
     String nome = "Alice";  // String
     double preco = 9.99;    // Número decimal (double)
     boolean ativo = true;   // Booleano
+    
     ~~~
 </details>
