@@ -33,3 +33,22 @@ Algoritmo é uma sequência de ações com o objetivo de resolver um problema. �
 
 ### Fluxograma da receita de bolo
 Um **Fluxograma** é uma representação visual dos processos ou do algoritmo para realizar um determinado objetivo, nesse caso a preparação de um bolo. Veja abaixo o fluxograma:
+
+~~~mermaid
+flowchart TD
+    A[Início] --> B[Bater as claras em neve]
+    B --> C[Reservar as claras em neve]
+    C --> D[Misturar gemas, margarina e açúcar]
+    D --> E[Obter massa homogênea]
+    E --> F[Acrescentar leite e farinha de trigo aos poucos]
+    F --> G[Continuar batendo a massa]
+    G --> H[Adicionar claras em neve e fermento]
+    H --> I[Despejar a massa na forma untada e enfarinhada]
+    I --> J[Assar em forno a 180°C por 40 minutos]
+    J --> K{Bolo Assado?}
+    K -- Sim --> L[Furar com garfo para verificar]
+    L -- Garfo limpo --> M[Fim: Bolo Pronto]
+    L -- Garfo sujo --> J
+    K -- Não --> J
+
+~~~
