@@ -54,17 +54,21 @@ bool estudante = true;      // Booleano
 
 **Dica**: C++ permite uma ampla gama de tipos primitivos e derivados, como ``int``, ``float``, ``double``, etc.
 
-### TypeScript (JavaScript com Tipagem Estática)
+### Kotlin (Tipagem Estática)
+Em Kotlin, você pode usar ``val`` para variáveis imutáveis (equivalente a constantes) e ``var`` para variáveis mutáveis.
+```kotlin
+// Inteiro
+var idade: Int = 25
 
-TypeScript adiciona tipagem estática ao JavaScript, permitindo que você defina tipos explicitamente.
-```typescript
-let idade: number = 25;         // Inteiro
-let altura: number = 1.75;      // Ponto flutuante
-let nome: string = "Maria";     // String
-let estudante: boolean = true;  // Booleano
+// Ponto flutuante
+var altura: Double = 1.75
 
+// String
+var nome: String = "Maria"
+
+// Booleano
+var estudante: Boolean = true
 ```
-**Dica**: TypeScript verifica os tipos em tempo de compilação, reduzindo erros de tipo em comparação com JavaScript puro.
 
 ## Outros tipos de variáveis
 
