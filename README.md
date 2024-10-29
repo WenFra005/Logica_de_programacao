@@ -6,4 +6,4 @@ Repositório com anotações explicando os conceitos de lógica de programação
 </div>
 
 ## Referências
-[https://helpful-jump-17b.notion.site/Algoritmos-fd3cb94523b142d08b983d456e94668c](https://helpful-jump-17b.notion.site/Algoritmos-fd3cb94523b142d08b983d456e94668c)
+[https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07](https://helpful-jump-17b.notion.site/Mapa-de-aventura-91f3e9bd923842149d4dba754dc65c07)
