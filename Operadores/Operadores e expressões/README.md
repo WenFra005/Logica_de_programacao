@@ -12,8 +12,8 @@
 |Operador|Descrição|Exemplo|
 |:---:|:---:|:---|
 |``&&``| AND lógico|``if (condition1 && condition2)``|
-|``\|\|``|OR lógico| ``if (condiotion1 || condition2)``|
-|``!``|NOT lógico| if(!condition)``|
+|``\|\|``|OR lógico| ``if (condiotion1 \|\| condition2)``|
+|``!``|NOT lógico| ``if(!condition)``|
 
 ## Operadores de atribuição
 |Operador|Descrição|Exemplo|
