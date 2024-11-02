@@ -1,8 +1,6 @@
-# Estruturas condicionais
+# Tipos de estruturas condicionais
 
-## Tipos de estruturas condicionais
-
-### IF (se)
+## IF (se)
 A estrutura ``if`` verifica se uma condição é verdadeira. Se for, executa um bloco de código; caso contrário, ignora-o.
 Exemplo em pseudocódigo:
 
@@ -12,7 +10,7 @@ se (condição) então
 fim-se
 ```
 
-### IF-ELSE (se-senão)
+## IF-ELSE (se-senão)
 A estrutura ``if-else`` lida com uma condição que pode ser verdadeira ou falsa. Se a condição no ``if`` for verdadeira, executa um bloco de código; caso contrário, executa o bloco do ``else``.
 
 ```pseudo
@@ -23,7 +21,7 @@ if else
 fim-se
 ```
 
-### ELSE
+## ELSE
 Esse comando é usado como o último bloco de código quando nenhuma das várias condições são verdadeiras e é executado.
 
 ```pseudo
