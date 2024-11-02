@@ -1,7 +1,7 @@
 # Estruturas condicionais
 
-Estruturas condicionais são um componente fundamental na lógica de programação, permitindo que um programa execute diferentes blocos de código com base em certas condições. Em essência, elas direcionam o fluxo da execução conforme as condições especificadas, possibilitando que o programa tome "decisões" de acordo com variáveis e entradas fornecidas pelo usuário.
 ## Tipos de estruturas condicionais
+
 ### IF (se)
 A estrutura ``if`` verifica se uma condição é verdadeira. Se for, executa um bloco de código; caso contrário, ignora-o.
 Exemplo em pseudocódigo:
